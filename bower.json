@@ -1,0 +1,13 @@
+{
+  "name": "gulp_first",
+  "authors": [
+    "vivek venkatachari <vivek.venkatachari@ge.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.5"
+  }
+}
